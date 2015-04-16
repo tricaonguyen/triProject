@@ -1,0 +1,10 @@
+html {
+    background: rgb(38, 166, 91);
+}
+
+body {
+    width: 85%;
+    margin: 0 auto;
+    font-family: Cambria, sans-serif;
+    border: 1px solid white;
+}
