@@ -1,0 +1,63 @@
+body {
+    background: #22313f;
+    color: rgb(21, 21, 21);
+    font-family: 'Exo', sans-serif;
+    font-size: 16px;
+}
+
+.container {
+    width: 60%;
+    background: #81CFE0;
+    margin: 20px auto;
+    overflow: auto;
+    padding: 25px;
+    box-shadow: 0 0.3em 1em #E4F1FE;
+}
+
+header {
+    text-align: center;
+    border-bottom: 1px dashed #fff;
+    font-family: 'Bangers', cursive;
+}
+
+header h1 {
+    margin: 0;
+    padding: 0;
+}
+
+header p {
+    padding: 0;
+    margin-top: 5px;
+    color: rgb(236, 240, 241);
+    text-transform: capitalize;
+    font-size: 1.5em;
+}
+
+section {
+    min-height: 400px;
+}
+
+footer {
+    text-align: center;
+}
+
+input[type="submit"] {
+    background: #22313f;
+    border: 0;
+    color: #fff;
+    padding: 10px 15px;
+    font-family: 'Exo', sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#results h3 {
+    background: #f06226;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#results span {
+    color: black;
+    font-weight: bold;
+}
